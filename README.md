@@ -1,5 +1,5 @@
   Frontend repository : 
-git@github.com:elizabethkerubo02/miniatures.git
+https://github.com/elizabethkerubo02/miniatures/tree/master
 # Phase 3 Project Guidelines
 
 ## Learning Goals
