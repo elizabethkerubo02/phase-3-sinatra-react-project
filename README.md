@@ -1,3 +1,5 @@
+  Frontend repository : 
+git@github.com:elizabethkerubo02/miniatures.git
 # Phase 3 Project Guidelines
 
 ## Learning Goals
